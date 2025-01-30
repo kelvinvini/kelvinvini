@@ -10,9 +10,17 @@ Eu sou o Kelvin Vinicius, sou um Programador Front-End, atualmente estou aprende
 - <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
 
   ### Entre Em Contato:
-  <p>
-    <a href="https://www.linkedin.com/in/kelvin-vinicius-379561148?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9c%2BhD2BISPaCHfaDSTJfSg%3D%3D"> <img  align="left" alt="linkedln-logo" width="22px"
-</a>
-  </p>
+
+
+  <img align="center" width="22px" src="https://img.icons8.com/?size=50&id=8808&format=png"/>
+  
+
+  <img align="center" width="22px" src="https://img.icons8.com/?size=30&id=59813&format=png"/>
+
+  
+  ![kelvin stats](https://github-readme-stats.vercel.app/api?username=kelvinvini)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinvini)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
