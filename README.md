@@ -2,7 +2,7 @@ Olá :wave:
 
 Eu sou o Kelvin Vinicius, sou um Programador Front-End,mais estou em desenvolvimento, produzindo muitas habilidades com a tecnologia.
 
-Sou aluno do DevClub, uma das melhores olataforma de ensino de programação.
+Sou aluno do DevClub, uma das melhores plataformas de ensino sobre programação.
 
 - :email: Email para contato : kelvinapol@gmail.com
 - :earth_africa: Cidade : São Paulo - SP
